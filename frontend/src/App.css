@@ -1,0 +1,21 @@
+.App {
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+  position: relative;
+  bottom: 20px;
+
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+  margin: 0;
+  padding: 0;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
